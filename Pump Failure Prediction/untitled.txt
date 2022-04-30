@@ -1,0 +1,4 @@
+Columns to use:
+    numerical: amount_tsh, gps_heigh, longitude, latitude, num_private, population, construction_year
+    categorical: basinbasin, public_meeting, scheme_management, permit, extraction_type_class, payment_type
+                 water_quality, quantity, source, waterpoint_type
